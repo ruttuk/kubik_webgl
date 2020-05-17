@@ -8,12 +8,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: center; */
-    margin: 20px;
+    margin: 40px;
     position: relative;
 }
 
 .readme {
-    font-size: medium;
+    font-size: 16pt;
     font-family: monospace;
     text-align: center;
 }
