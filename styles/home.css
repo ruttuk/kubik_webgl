@@ -5,12 +5,10 @@ body {
 .unityContainer {
     width: 96%; 
     height: 60%;
-    margin: auto;
     display: block;
 }
 
 .readme {
-    margin: auto;
     font-size: medium;
     font-family: monospace;
     text-align: center;
