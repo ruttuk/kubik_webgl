@@ -3,9 +3,9 @@ body {
 }
 
 .unityContainer {
-    width: 960px; 
-    height: 600px; 
-    margin: 10%;
+    width: 96%; 
+    height: 60%;
+    margin: auto;
     display: block;
 }
 
@@ -13,4 +13,5 @@ body {
     margin: auto;
     font-size: medium;
     font-family: monospace;
+    text-align: center;
 }
