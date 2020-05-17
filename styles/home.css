@@ -3,9 +3,13 @@ body {
 }
 
 .unityContainer {
-    width: 96%; 
+    /* width: 96%; 
     height: 60%;
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+    margin: 20px;
+    position: relative;
 }
 
 .readme {
