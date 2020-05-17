@@ -2,7 +2,7 @@ body {
     background-color: #000000;
 }
 
-.unityContainer {
+#unityContainer {
     /* width: 96%; 
     height: 60%;
     display: flex;
