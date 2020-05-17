@@ -6,31 +6,31 @@ kubik is a creative tool where you can build 3-dimensional structures using cube
 
 kubik has 5 different modes:
 
-1. **APPEND** (press 1)
+1. **append** (press 1)
 
-While in **Append** mode, left-clicking on the face of any cube will place a new cube adjacent to the selected face.
+While in **append** mode, left-clicking on the face of any cube will place a new cube adjacent to the selected face.
 The placed cube will be created with the currently selected color.
-Press **1** on the keyboard to enter APPEND mode.
+Press **1** on the keyboard to enter append mode.
 
-2. **DELETE** (press 2)
+2. **delete** (press 2)
 
-While in **Delete** mode, left-clicking on any cube will delete that cube.
-Press **2** on the keyboard to enter APPEND mode.
+While in **delete** mode, left-clicking on any cube will delete that cube.
+Press **2** on the keyboard to enter delete mode.
 
-3. **PAINT** (press 3)
+3. **paint** (press 3)
 
-While in **Paint** mode, left-clicking on the face of any cube will paint the selected face with the currently selected color.
-Press **3** on the keyboard to enter APPEND mode.
+While in **paint** mode, left-clicking on the face of any cube will paint the selected face with the currently selected color.
+Press **3** on the keyboard to enter paint mode.
 
-4. **SAMPLE** (press 4)
+4. **sample** (press 4)
 
-While in **Sample** mode, left-clicking on the face of any cube will sample the color of the selected face and set it as the currently selected color.
-Press **4** on the keyboard to enter APPEND mode.
+While in **sample** mode, left-clicking on the face of any cube will sample the color of the selected face and set it as the currently selected color.
+Press **4** on the keyboard to enter sample mode.
 
-5. **BGD** (press 5)
+5. **bgd** (press 5)
 
-While in **Bgd** mode, changing the currently selected color will change the color of the background.
-Press **5** on the keyboard to enter APPEND mode.
+While in **bgd** mode, changing the currently selected color will change the color of the background.
+Press **5** on the keyboard to enter bgd mode.
 
 #### rotating
 
